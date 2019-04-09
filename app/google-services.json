@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200432506743",
+    "firebase_url": "https://restorantapplication.firebaseio.com",
+    "project_id": "restorantapplication",
+    "storage_bucket": "restorantapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200432506743:android:31985030e6304381",
+        "android_client_info": {
+          "package_name": "com.felixtechlabs.restorantapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200432506743-9kii5npr71c9hoaf7pblmol476nem5jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.felixtechlabs.restorantapplication",
+            "certificate_hash": "a6258adbb03e8b1ed35c2c3debc872a91513efee"
+          }
+        },
+        {
+          "client_id": "200432506743-8dkpi68cf36v4sa2m50bgpssp5ssettq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZrYVjEokkFW52P4nV1mC6oQ0BLl0vqU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200432506743-8dkpi68cf36v4sa2m50bgpssp5ssettq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
